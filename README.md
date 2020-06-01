@@ -3,7 +3,7 @@
 
 ## References
 
-Implementation of Tomas Akenine Moeller's Fast Triangle-Triangle interesection detection algorithm in Python
+Implementation of Tomas Akenine Moeller's Fast Triangle-Triangle intersection detection algorithm in Python
 
 * [Original implementation](http://fileadmin.cs.lth.se/cs/Personal/Tomas_Akenine-Moller/code/tritri_isectline.txt)
 * [Reference paper](https://web.stanford.edu/class/cs277/resources/papers/Moller1997b.pdf)
@@ -17,7 +17,7 @@ Input can be supplied in any of the given formats:
 * TXT file format (input has to be 6 vertices, each coordinate seperated by spaces and and vertex by a newline)
 * Hand input
 
-Example of a possible TXT file:
+Example of a possible TXT input file:
 ```sh
 5.790 9.870 2.628 - 1 vertex 3 coordintes x y z
 6.572 4.942 1.053
